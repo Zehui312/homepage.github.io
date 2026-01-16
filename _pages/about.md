@@ -17,10 +17,20 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-I am a biomedical scientist with research interests in **pathogen genomics**, **computational biology**, and **data-driven analysis of infectious diseases**.  
-My research focuses on genome-based characterization of viruses and bacteria, comparative genomics, and the application of bioinformatics and high-throughput sequencing data to infectious disease research and public health–related studies.
+<p align="justify">
+I am a biomedical scientist with research interests in 
+<b>pathogen genomics</b>, <b>computational biology</b>, and 
+<b>data-driven analysis of infectious diseases</b>. 
+My research focuses on genome-based characterization of viruses and bacteria, 
+comparative genomics, and the application of bioinformatics and high-throughput 
+sequencing data to infectious disease research and public health–related studies.
+</p>
 
-I have contributed to peer-reviewed research in pathogen genomics and related biomedical fields, with publications cited by the international scientific community.  
+<p align="justify">
+I have contributed to peer-reviewed research in pathogen genomics and related 
+biomedical fields, with publications cited by the international scientific community.
+</p>
+
 
 ---
 
