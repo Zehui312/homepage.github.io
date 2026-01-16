@@ -70,14 +70,16 @@ biomedical fields, with publications cited by the international scientific commu
 
 <span class="anchor" id="publications"></span>
 
-# 📝 Publications and Academic Impact
-*Google Scholar as of December 15, 2025*
-- Peer-reviewed publications: 60+ (14 first-author; 9 corresponding-author)
-- Total citations (Google Scholar): 900+
-- *A list of selected peer-reviewed publications in pathogen genomics and infectious disease research is available on  
-[Google Scholar]([https://scholar.google.com/citations?user=user=KtpXT3EAAAAJ](https://scholar.google.com/citations?user=KtpXT3EAAAAJ))*
-- Patents: 2 granted China invention patents in pathogen detection and molecular diagnostics
-- Editorial service: Guest Editor for international journals (Genes, Pathogens)
+## 📝 Publications and Academic Impact  
+*Google Scholar (as of December 15, 2025)*
+
+- **Peer-reviewed publications:** 60+ (14 first-author; 9 corresponding-author)  
+- **Total citations:** 900+ (Google Scholar)  
+- **Selected peer-reviewed publications** in *pathogen genomics and infectious disease research* are available at:  
+  https://scholar.google.com/citations?user=KtpXT3EAAAAJ  
+- **Patents:** 2 granted Chinese invention patents in pathogen detection and molecular diagnostics  
+- **Editorial service:** Guest Editor for international journals (*Genes*, *Pathogens*)
+
   
 ---
 
