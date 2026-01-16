@@ -17,42 +17,92 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a biomedical scientist with research interests in **pathogen genomics**, **computational biology**, and **data-driven analysis of infectious diseases**.  
+My research focuses on genome-based characterization of viruses and bacteria, comparative genomics, and the application of bioinformatics and high-throughput sequencing data to infectious disease research and public health–related studies.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have contributed to peer-reviewed research in pathogen genomics and related biomedical fields, with publications cited by the international scientific community.  
+<a href="https://scholar.google.com/citations?user=YOUR_ID_HERE">
+Google Scholar Profile
+<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
+</a>
 
+---
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔬 Research Interests
 
-# 📝 Publications 
+- Pathogen genomics and comparative genomics  
+- Genome-based classification and evolutionary analysis of viruses and bacteria  
+- Bioinformatics analysis of high-throughput sequencing data  
+- Single-cell and multi-omics data analysis for infectious disease research  
+- Translational applications of genomics in biomedicine and public health  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+---
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 🧪 Research Experience
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **Postdoctoral Researcher**  
+  *St. Jude Children’s Research Hospital, USA*  
+  Computational and genomics-based research in infectious diseases and biomedical data analysis.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **Postdoctoral Researcher**  
+  *Zhejiang University, China*  
+  Research in pathogenic microorganism genomics and comparative genomics.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Visiting Scholar**  
+  *National University of Singapore*  
+  Functional studies of host–pathogen interactions using experimental model systems.
+
+- **Research Scientist**  
+  *Southwest Medical University, China*  
+  Bioinformatics and genomics research supporting pathogen-related biomedical projects.
+
+---
+
+# 📝 Publications
+
+A list of selected peer-reviewed publications in pathogen genomics and infectious disease research is available on  
+[Google Scholar](https://scholar.google.com/citations?user=YOUR_ID_HERE).
+
+*(A curated publication list will be added here.)*
+
+---
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Excellent Doctoral Dissertation Award  
+- Provincial Doctoral Academic Scholarship  
+- Outstanding Graduate Student Award  
+- Outstanding Undergraduate / Graduate Awards  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+---
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎓 Education
+
+- **Ph.D. in Veterinary Medicine**  
+  *Sichuan Agricultural University*
+
+- **M.Sc. in Veterinary Medicine**  
+  *Sichuan Agricultural University*
+
+- **B.Sc. in Aquaculture**  
+  *Sichuan Agricultural University*
+
+---
+
+# 🛠 Technical Skills
+
+- **Programming & Analysis:** R, Python, Linux, HPC environments  
+- **Genomics & Bioinformatics:** RNA-seq, WGS/WES, comparative genomics, phylogenetics  
+- **Data Analysis:** statistical analysis, visualization, multi-omics integration  
+- **Tools:** Git, GitHub, Conda, bioinformatics pipelines  
+
+---
+
+# 🌐 Links
+
+- 🌍 Personal Website: [https://zehui312.github.io](https://zehui312.github.io)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/zehui-yu-4b4086332/](https://www.linkedin.com/in/zehui-yu-4b4086332/)  
+
+---
+
+*This website is intended to share research activities, publications, and computational work related to my scientific research.*
