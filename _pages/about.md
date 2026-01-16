@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class="anchor" id="about-me"></span>
 
 I am a biomedical scientist with research interests in **pathogen genomics**, **computational biology**, and **data-driven analysis of infectious diseases**.  
 My research focuses on genome-based characterization of viruses and bacteria, comparative genomics, and the application of bioinformatics and high-throughput sequencing data to infectious disease research and public health–related studies.
@@ -28,6 +28,8 @@ Google Scholar Profile
 
 ---
 
+<span class="anchor" id="research-interests"></span>
+
 # 🔬 Research Interests
 
 - Pathogen genomics and comparative genomics  
@@ -37,6 +39,8 @@ Google Scholar Profile
 - Translational applications of genomics in biomedicine and public health  
 
 ---
+
+<span class="anchor" id="research-experience"></span>
 
 # 🧪 Research Experience
 
@@ -58,6 +62,8 @@ Google Scholar Profile
 
 ---
 
+<span class="anchor" id="publications"></span>
+
 # 📝 Publications
 
 A list of selected peer-reviewed publications in pathogen genomics and infectious disease research is available on  
@@ -67,6 +73,8 @@ A list of selected peer-reviewed publications in pathogen genomics and infectiou
 
 ---
 
+<span class="anchor" id="honors-and-awards"></span>
+
 # 🎖 Honors and Awards
 
 - Excellent Doctoral Dissertation Award  
@@ -75,6 +83,8 @@ A list of selected peer-reviewed publications in pathogen genomics and infectiou
 - Outstanding Undergraduate / Graduate Awards  
 
 ---
+
+<span class="anchor" id="education"></span>
 
 # 🎓 Education
 
@@ -88,6 +98,8 @@ A list of selected peer-reviewed publications in pathogen genomics and infectiou
   *Sichuan Agricultural University*
 
 ---
+
+<span class="anchor" id="technical-skills"></span>
 
 # 🛠 Technical Skills
 
