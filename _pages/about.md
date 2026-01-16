@@ -72,7 +72,6 @@ biomedical fields, with publications cited by the international scientific commu
 
 ## 📝 Publications and Academic Impact  
 *Google Scholar (as of December 15, 2025)*
-
 - **Peer-reviewed publications:** 60+ (14 first-author; 9 corresponding-author)  
 - **Total citations:** 900+ (Google Scholar)  
 * A list of selected peer-reviewed publications in pathogen genomics and infectious disease research is available on
